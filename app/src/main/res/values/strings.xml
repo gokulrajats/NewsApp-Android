@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PadhNews</string>
+    <string name="article">Articles</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="account">Account</string>
+</resources>
